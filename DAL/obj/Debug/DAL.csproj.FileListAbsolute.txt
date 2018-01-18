@@ -1,0 +1,5 @@
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\DAL\bin\Debug\DAL.dll
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\DAL\bin\Debug\DAL.pdb
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\DAL\obj\Debug\DAL.dll
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\DAL\obj\Debug\DAL.pdb

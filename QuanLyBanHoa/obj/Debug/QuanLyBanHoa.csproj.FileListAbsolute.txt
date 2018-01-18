@@ -1,0 +1,86 @@
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.exe.config
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.exe
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.pdb
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.csprojResolveAssemblyReference.cache
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Properties.Resources.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmMain.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.csproj.GenerateResource.Cache
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.exe
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.pdb
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmHoaDonBanHang.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmThanhToan.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmThem_EditSanPham.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmDatSoLuong.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmDoiGiaBan.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmDatGiamGia.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmQLDanhMucHoaDon.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmQLDanhMucCTHoaDon.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmQLDanhMucKhachHang.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmQLDanhMucSanPham.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmQLDanhMucNhaCungCap.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmXemDanhMucHoaDon.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmXemDanhMucSanPham.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmXemDanhMucKhachHang.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmXemDanhMucNCC.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmQLDanhMucLoaiKhachHang.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmXemDanhMucLoaiKhachHang.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmXemDanhMucChiTietHoaDon.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmQLDanhMucNhanVien.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmXemDanhMucNhanVien.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmQLDanhMucHopDong.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmXemDanhMucHopDong.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmQLDanhMucCTHopDong.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmXemDanhMucCTHopDong.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmThongKeDoanhThu.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmDatHangNCC.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmLogin.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmDoiMatKhauDangNhap.resources
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\bin\Debug\EntityFramework.dll
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\bin\Debug\EntityFramework.SqlServer.dll
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\bin\Debug\EntityFramework.xml
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\bin\Debug\EntityFramework.SqlServer.xml
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\bin\Debug\BUS.dll
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\bin\Debug\BUS.pdb
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.exe.config
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.exe
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.pdb
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.exe
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.pdb
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\bin\Debug\BUS.dll
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\bin\Debug\EntityFramework.dll
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\bin\Debug\EntityFramework.SqlServer.dll
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\bin\Debug\BUS.pdb
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\bin\Debug\EntityFramework.xml
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\bin\Debug\EntityFramework.SqlServer.xml
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.csprojResolveAssemblyReference.cache
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Properties.Resources.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmDatHangNCC.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmDoiMatKhauDangNhap.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmLogin.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmQLDanhMucCTHopDong.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmQLDanhMucHopDong.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmQLDanhMucLoaiKhachHang.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmQLDanhMucNhanVien.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmThongKeDoanhThu.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmXemDanhMucChiTietHoaDon.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmXemDanhMucCTHopDong.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmXemDanhMucHoaDon.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmXemDanhMucHopDong.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmXemDanhMucKhachHang.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmDatSoLuong.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmDoiGiaBan.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmMain.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmHoaDonBanHang.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmQLDanhMucCTHoaDon.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmQLDanhMucHoaDon.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmQLDanhMucKhachHang.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmQLDanhMucNhaCungCap.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmQLDanhMucSanPham.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmThanhToan.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmDatGiamGia.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmThem_EditSanPham.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmXemDanhMucLoaiKhachHang.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmXemDanhMucNCC.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmXemDanhMucNhanVien.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.View.frmXemDanhMucSanPham.resources
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.csproj.GenerateResource.Cache

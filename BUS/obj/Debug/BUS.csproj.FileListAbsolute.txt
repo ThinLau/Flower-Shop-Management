@@ -1,0 +1,20 @@
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\BUS\bin\Debug\BUS.dll
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\BUS\bin\Debug\BUS.pdb
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\BUS\obj\Debug\BUS.dll
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\BUS\obj\Debug\BUS.pdb
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\BUS\bin\Debug\BUS.dll.config
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\BUS\bin\Debug\EntityFramework.dll
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\BUS\bin\Debug\EntityFramework.SqlServer.dll
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\BUS\bin\Debug\EntityFramework.xml
+F:\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\BUS\bin\Debug\EntityFramework.SqlServer.xml
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\BUS\bin\Debug\BUS.dll.config
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\BUS\bin\Debug\BUS.dll
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\BUS\bin\Debug\BUS.pdb
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\BUS\bin\Debug\EntityFramework.dll
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\BUS\bin\Debug\EntityFramework.SqlServer.dll
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\BUS\bin\Debug\EntityFramework.xml
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\BUS\bin\Debug\EntityFramework.SqlServer.xml
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\BUS\obj\Debug\BUS.dll
+F:\lập trình hướng đối tượng\Lập trình trên Window\Code\UngDungQuanLyCuaHangBanHoa\BUS\obj\Debug\BUS.pdb
